@@ -1,0 +1,3 @@
+[submodule "lib/DeviceService.ComponentModel"]
+	path = lib/DeviceService.ComponentModel
+	url = https://github.com/Redbox-Automated-Retail/DeviceService.ComponentModel
