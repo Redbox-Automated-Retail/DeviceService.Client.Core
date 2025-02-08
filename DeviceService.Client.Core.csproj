@@ -27,6 +27,6 @@
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client.Core" Version="9.0.1" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="lib\DeviceService.ComponentModel\DeviceService.ComponentModel.csproj" />
+    <ProjectReference Include="$(SolutionDir)lib\DeviceService.ComponentModel\DeviceService.ComponentModel.csproj" />
   </ItemGroup>
 </Project>
